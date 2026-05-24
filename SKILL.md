@@ -15,6 +15,10 @@ metadata:
 
 OpenClaw 没有 CLI 或 RPC 方式修改会话标题，但 JSON store 可以直接编辑。
 
+## 效果演示
+
+![改名效果](assets/demo.png)
+
 ## 触发
 
 用户说「改会话名」「把这个会话叫 XXX」「rename session」「设置会话标签」「修改会话标题」等。
