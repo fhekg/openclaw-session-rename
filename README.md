@@ -27,7 +27,7 @@ displayName: "WatchDose · 吃药提醒"
 derivedTitle: "WatchDose · 吃药提醒"
 ```
 
-![效果对比](assets/demo.png)
+![效果对比](https://raw.githubusercontent.com/fhekg/openclaw-session-rename/main/assets/demo.png)
 
 ## 使用方式
 
