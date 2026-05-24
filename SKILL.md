@@ -5,6 +5,7 @@ metadata:
   openclaw:
     displayName: 会话名称修改
     tagline: 直接编辑 sessions.json 给会话加 label，修改 OpenClaw 会话显示名称
+    slug: session-rename-zh
     homepage: https://github.com/fhekg/openclaw-session-rename
 ---
 
